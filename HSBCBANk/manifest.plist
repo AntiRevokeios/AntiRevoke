@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://your-domain.com/esign.ipa</string>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/raw/refs/heads/main/HSBCBANk/ESign_9.3.5.0_HSBCBank.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.app</string>
+                <string>hk.com.hsbc.enterprise.hsbchkrewards.local2</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>9.3.5.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>esign</string>
+                <string>ESign</string>
             </dict>
         </dict>
     </array>
