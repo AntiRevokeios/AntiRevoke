@@ -4,6 +4,260 @@
 <dict>
     <key>items</key>
     <array>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594952.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign18</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Aramco Services Company</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594928.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign16</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Beijing Esensoft</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594974.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign20</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – China Academy of Railway Sciences</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594906.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign14</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – China Continent Property</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594918.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign15</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – China Telecom Corporation Limited</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594940.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign17</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Commission on Elections</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594897.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign13</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Dtt Technology</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594884.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign12</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Forevermark Marketing</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594851.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign9</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – GAC TOYOTA MOTOR</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594832.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign7</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – GLOBAL TAKEOFF</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594870.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign11</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – HDFC Bank Limited</string>
+            </dict>
+        </dict>
+
         <dict>
             <key>assets</key>
             <array>
@@ -23,9 +277,217 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign</string>
+                <string>ESign – HSBC Bank</string>
             </dict>
         </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594860.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign10</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Ministere</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594790.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign2</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – National Oilwell</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594824.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign6</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – NREH ESTATE INFORMATION</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594814.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign5</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Sunshine Insurance</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594798.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign3</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – TCL household Appliance</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594805.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign4</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – VIETNAM AIRLINES</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787597316.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign21</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Wuling Power</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594963.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign19</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – XL AXIATA</string>
+            </dict>
+        </dict>
+
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/AntiRevokeios/AntiRevoke/releases/download/esign/ESign_5.0.2_1787594772.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>p3.xyz.yyyue.esign1</string>
+                <key>bundle-version</key>
+                <string>5.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>ESign – Zhuhaishi ShijiXintong</string>
+            </dict>
+        </dict>
+
     </array>
 </dict>
 </plist>
